@@ -23,10 +23,10 @@ SIMILAR_NAMES = {
     "KFC": ["Burger King", "Wendy's", "McDonalds", "Popeyes"],
     "Popeyes": ["Burger King", "Wendy's", "KFC", "McDonalds"],
     "McDonald's": ["Burger King", "Wendy's", "KFC", "Popeyes"],
-    "Ford": ["Subaru", "Toyota", "Honda", "Nissan"]
-    "Subaru": ["Ford", "Toyota", "Honda", "Nissan"]
-    "Toyota": ["Subaru", "Ford", "Honda", "Nissan"]
-    "Honda": ["Subaru", "Toyota", "Ford", "Nissan"]
+    "Ford": ["Subaru", "Toyota", "Honda", "Nissan"],
+    "Subaru": ["Ford", "Toyota", "Honda", "Nissan"],
+    "Toyota": ["Subaru", "Ford", "Honda", "Nissan"],
+    "Honda": ["Subaru", "Toyota", "Ford", "Nissan"],
     "Nissan": ["Subaru", "Toyota", "Honda", "Ford"]
 }
 
