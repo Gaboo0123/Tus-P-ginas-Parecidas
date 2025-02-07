@@ -4,6 +4,7 @@ import random
 # Base de datos de marcas y nombres similares
 SIMILAR_NAMES = {
     "Nike": ["Adidas", "Puma", "Reebok", "Under Armour"],
+     "Pepsi": ["Adidas", "Puma", "Reebok", "Under Armour"],
     "Coca-Cola": ["Pepsi", "Dr Pepper", "Fanta", "Sprite"],
     "Apple": ["Samsung", "Google", "Huawei", "Microsoft"],
     "McDonald's": ["Burger King", "Wendy's", "KFC", "Taco Bell"],
